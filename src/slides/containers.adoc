@@ -2,47 +2,10 @@
 title: "Container Virtualization"
 date: 2017-04-28
 author: Geoffrey Challen
-description: >
-  Discussion of container or operating-system virtualization.
-spelling_exceptions:
-  - Dockerfile
-  - UnionFS
-  - deprivilege
-  - containerization
-song:
-  name: "Hunger"
-  author: "Of Monsters and Men"
-  youtube: n106Qo0D948
-video: nanHh0t4ssE
----
-[.nooutline.spelling_exception]
-== Technical Women
-
-image::women/008.jpg[width="100%",title="Tova Milo",link="http://www.math.tau.ac.il/~milo/"]
-
-[.h4.center]
-icon:music[] http://www.ofmonstersandmen.com/[{song}]
-
-video::{music}[youtube,width=0,height=0]
-
-[.nooutline]
-== Today
 
 * OS virtualization and containers
 
 [.nooutline]
-== link:/asst/3/[`ASST3.3`] Checkpoint
-
-.At this point:
-//
-* If you have not started, you're *way, way* behind.
-//
-* Get started!
-
-*link:/asst/3/[`ASST3.3`] is due Friday 5/5. Good luck finishing!*
-
-[.nooutline]
-== Congrats on Finishing ASST3
 
 ++++
 <iframe style="width:1024px; height:700px; max-width:1024px; transform: translate(-130px,-240px); transform-origin: 0 0; z-index:-1; position: relative" src="https://test161.ops-class.org/leaders#asst3"></iframe>
