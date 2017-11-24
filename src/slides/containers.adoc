@@ -1,7 +1,5 @@
 ---
-title: "Container Virtualization"
-date: 2017-04-28
-author: Geoffrey Challen
+== "Container Virtualization"
 
 * OS virtualization and containers
 
