@@ -1,5 +1,5 @@
 ---
-== "Container Virtualization"
+== Container Virtualization
 
 * OS virtualization and containers
 
